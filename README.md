@@ -1,8 +1,8 @@
 # Bandgap predictor
 
-Phyton code associated with the methods developed in "A machine learning approach to determine the band gap energy of high entropy oxides using UV-Vis Spectroscopy" by Juan P. Hoyos, Simon, Horst, .., Leo
+Phyton code associated with the methods developed in "A machine learning approach to determine the band gap energy of high entropy oxides using UV-Vis Spectroscopy" by Juan P. Hoyos, Horst Hahn,Shikhar K Jha, Simon Schweidler and Leonardo Velasco
 
-Author: Juan P. Hoyos, e-mail: jhoyoss@unal.edu.co or jhoyossanchez@gmail.com
+e-mail: jhoyoss@unal.edu.co or jhoyossanchez@gmail.com
 
 ## Requirements
 
