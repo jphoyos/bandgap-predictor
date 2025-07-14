@@ -1,6 +1,3 @@
-%<p align="center">
-%  <img src="abstract.png" alt="" width="400"/>
-%</p>
 
 # Bandgap predictor
 
@@ -8,7 +5,7 @@ Phyton code associated with the methods developed in "A machine learning approac
 
 e-mail: jhoyoss@unal.edu.co or lvelascoe@unal.edu.co 
 
-# Models ML
+## Models ML
 
 All the code related to the paper, specifically for building the machine learning models, can be found in ```models_maker.ipynb```, including everything needed to reproduce the results.
 
