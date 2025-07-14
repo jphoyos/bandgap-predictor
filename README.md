@@ -1,4 +1,4 @@
-(abstract.png)
+(assets/abstract.png)
 
 # Bandgap predictor
 
