@@ -1,4 +1,4 @@
-![Diagrama del sistema](assets/abstract.png)
+![](abstract.png)
 
 # Bandgap predictor
 
