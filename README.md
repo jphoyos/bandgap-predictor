@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="abstract.png" alt="" width="400"/>
-</p>
+%<p align="center">
+%  <img src="abstract.png" alt="" width="400"/>
+%</p>
 
 # Bandgap predictor
 
