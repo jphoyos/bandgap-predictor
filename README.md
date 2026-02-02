@@ -21,6 +21,7 @@ pip install -r requirements.txt
 
 ```bash
 python bandgap_predictor.py
+```
 
 ## How to cite
 
