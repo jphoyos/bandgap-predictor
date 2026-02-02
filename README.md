@@ -21,3 +21,8 @@ pip install -r requirements.txt
 
 ```bash
 python bandgap_predictor.py
+
+## How to cite
+
+Hoyos-Sanchez, J. P., Hahn, H., Jha, S. K., Schweidler, S., & Velasco, L. (2025). A Machine Learning Approach to Determine the Band Gap Energy of High-Entropy Oxides Using UV-Vis Spectroscopy. Eng, 6(12), 340. https://doi.org/10.3390/eng6120340
+
